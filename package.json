@@ -2,7 +2,11 @@
   "name": "demoreactgh",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "homepage": "http://paddy.github.io/demoreactgh",
+=======
+  "homepage": "http://paddyfro.github.io/demoreactgh",
+>>>>>>> a7463c5bcb56578e78410f0a8a501a74d708a1d8
   "dependencies": {
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
